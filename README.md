@@ -11,8 +11,8 @@
 - 🚀 Currently building an **AI-powered analytics platform** (PostHog + GA4 + AI agents).  
 - 🛠 Expanding into **Next.js, Node.js, and AI agents** for full-stack skills.  
 - 🎮 Former **certified Unity 3D developer** and **lead designer** (award-winning games at Lambda Gaming).  
-- 🏃 **Runner & hacker** – joined Founders Running Club (Dubai) & 5x hackathon winner.  
-- 🌍 Based in **Tbilisi, Georgia**, often working remotely across Europe.
+- 🏃 **Runner & hacker** – joined Founders Running Club (Dubai, Vienna, Berlin and lot's of other places) & 5x hackathon winner.  
+- 🌍 Based in **Tbilisi, Georgia**, often working remotely across Europe (now in Vienna, prev: Berlin).
 
 ---
 
@@ -46,7 +46,7 @@ Designed an experience enabling **3M+ users to get mortgages online** (solo UX d
 
 - **5x Hackathon Winner** (Google, Microsoft, + 2 local competitions).  
 - **Hackathon Judge** (2025).  
-- Designed systems for **startups raising $240M+**.  
+- Designed systems for **YC startup raised $240M+**.  
 - Built products impacting **millions of users**.
 
 ---
