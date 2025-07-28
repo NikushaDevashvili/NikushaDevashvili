@@ -55,7 +55,7 @@ Designed an experience enabling **3M+ users to get mortgages online** (solo UX d
   <a href="https://www.linkedin.com/in/nick-devashvili-0680571a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://dribbble.com/devashhh">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:nikadevashvili@gmail.com">
