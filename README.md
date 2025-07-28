@@ -34,9 +34,6 @@
 ### 🔹 **AI-Powered Analytics Platform** (2025 – Present)  
 **AI agents + PostHog/GA4 + Chat UX** to help **founders & PMs** detect issues without complex dashboards.
 
-### 🔹 **Lambda Gaming** – *Lead Designer*  
-Created **10+ hyper-casual games** (award-winning) and led a **4-person design team**.
-
 ### 🔹 **Digital Mortgage Platform @ TBC Bank**  
 Designed an experience enabling **3M+ users to get mortgages online** (solo UX designer role).
 
