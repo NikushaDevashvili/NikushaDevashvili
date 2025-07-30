@@ -42,7 +42,7 @@ Designed an experience enabling **3M+ users to get mortgages online** (solo UX d
 ## 🏆 Achievements
 
 - **5x Hackathon Winner** (Google, Microsoft, + 2 local competitions).  
-- **Hackathon Judge** (2025).  
+- **Awwwards.com Judge** (2025).  
 - Designed systems for **YC startup raised $240M+**.  
 - Built products impacting **millions of users**.
 
