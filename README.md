@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎨 **8+ years as a Product Designer & UX Researcher** (YC-backed startups, fintech, mobility, gaming).  
+- 🎨 **8+ years as a Product Designer & UX Researcher** (YC-backed startups, fintech, mobility, gaming)  
 - 🚀 Currently building an **AI-powered analytics platform** 
 - 🛠 Expanding into **Next.js, Node.js, and AI agents** for full-stack skills.  
 - 🎮 **certified Unity 3D developer** and **lead designer** (award-winning games at Lambda Gaming).  
