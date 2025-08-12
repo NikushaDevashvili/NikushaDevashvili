@@ -21,7 +21,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Design-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Analytics-PostHog-FF3366?style=for-the-badge&logo=posthog&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Dev-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
