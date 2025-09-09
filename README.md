@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 - 🎨 **8+ years as a Product Designer & UX Researcher** (YC-backed startups, fintech, mobility, gaming)
 - 🚀 Currently building an **AI-powered analytics platform** 
