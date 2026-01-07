@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🎨 **8+ years as a Product Designer & UX Researcher** (YC-backed startups, fintech, mobility, gaming)
-- 🚀 Currently building an **AI-powered analytics platform** 
+- 🚀 Currently building an **Observability, Tracing & debugging platform for llms** 
 - 🛠 Expanding into **Next.js, Node.js, and AI agents** for full-stack skills.
 - 🎮 **certified Unity 3D developer** and **lead designer** (award-winning games at Lambda Gaming). 
 - 🏃 **Runner & hacker** – joined Founders Running Club (Dubai, Vienna, Berlin and lot's of other places) & 5x hackathon winner.
@@ -30,8 +30,7 @@
 
 ## 📌 Featured Work
 
-### 🔹 **AI-Powered Analytics Platform** (2025 – Present)  
-**AI agents + Chat UX** to help **founders & PMs** detect issues without complex dashboards.
+### 🔹 **Observability, Tracing & debugging platform for llms** (2025 – Present)  
 
 ### 🔹 **Digital Mortgage Platform @ TBC Bank**  
 Designed an experience enabling **3M+ users to get mortgages online** (solo UX designer role).
