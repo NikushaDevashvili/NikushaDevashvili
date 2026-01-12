@@ -30,7 +30,7 @@
 
 ## 📌 Featured Work
 
-### 🔹 **Observability, Tracing & debugging platform for llms** (2025 – Present)  
+### 🔹 **Open Source Observability, Tracing & debugging platform for llms** (2025 – Present)  
 
 ### 🔹 **Digital Mortgage Platform @ TBC Bank**  
 Designed an experience enabling **3M+ users to get mortgages online** (solo UX designer role).
