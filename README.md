@@ -64,7 +64,7 @@ Designed an experience enabling **3M+ users to get mortgages online** (solo UX d
 ---
 
 <p align="center">
-  <i>“Building, learning, and optimizing — one project at a time.”</i>
+  <i>“There is nothing in the desert and no man needs nothing”</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100" />
