@@ -11,7 +11,7 @@
 - 🚀 Currently building an **Observability, Tracing & debugging platform for llms** 
 - 🛠 Expanding into **Next.js, Node.js, and AI agents** for full-stack skills.
 - 🎮 **certified Unity 3D developer** and **lead designer** (award-winning games at Lambda Gaming). 
-- 🏃 **Runner & hacker** – joined Founders Running Club (Dubai, Vienna, Berlin and lot's of other places) & 5x hackathon winner.
+- 🏃 **Runner & hacker** – joined Founders Running Club (Dubai, Vienna, Berlin, and lots of other places) & 5x hackathon winner.
 - 🌍 Based in **Tbilisi, Georgia**, often working remotely across Europe (soon in Brussels, prev: Berlin). 
 
 ---
