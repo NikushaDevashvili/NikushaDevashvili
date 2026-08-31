@@ -47,21 +47,6 @@ Designed an experience enabling **3M+ users to get mortgages online** (solo UX d
 ---
 
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nick-devashvili-0680571a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dribbble.com/devashhh">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:nikadevashvili@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>“There is nothing in the desert and no man needs nothing”</i>
